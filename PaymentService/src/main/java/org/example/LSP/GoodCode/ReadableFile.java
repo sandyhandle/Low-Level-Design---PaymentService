@@ -4,6 +4,6 @@ public class ReadableFile implements Readable {
 
     @Override
     public void read() {
-        System.out.println("Reading the file....");
+        System.out.println("Reading the file...");
     }
 }
