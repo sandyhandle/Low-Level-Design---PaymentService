@@ -1,4 +1,3 @@
-BehavioralPattern/.idea/
-PaymentService/.idea/
-PaymentService/target/
+**/.idea/
+**/target/
 
